@@ -22,22 +22,22 @@ DAX for calculated columns/measures
 
 CSV Data Cleaning (preprocessed in Excel/Python)
 
-📁 File
+## 📁 File
 [FILE](https://github.com/diyaaa148/air-quality-report/blob/main/Air%20quality%20report.pbit): Power BI dashboard template file. You can open this in Power BI Desktop.
 
-📌 Project Highlights
+## 📌 Project Highlights
 Improved data-driven decision-making for environmental monitoring.
 
 Identified high-risk zones and seasonal pollution patterns.
 
 Strengthened data visualization and storytelling skills.
 
-📣 How to Use
+## 📣 How to Use
 Download the .pbit file and open it in Power BI Desktop.
 
 Load your dataset (if not preloaded) or explore the demo data.
 
 Use slicers and filters to interact with the dashboard.
 
-🚀 About Me
+## 🚀 About Me
 I'm a recent Statistics graduate with a passion for data analytics and visualization. This project helped me enhance my Power BI and data storytelling skills. Let’s connect on LinkedIn!
